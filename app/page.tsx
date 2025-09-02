@@ -94,10 +94,13 @@ export default function Home() {
         {/* Header */}
         <div className="text-center">
           <div className="flex items-center justify-center gap-2 relative">
-            <h1 className="text-3xl font-bold text-foreground flex items-center gap-2">
-              <CalendarIcon className="h-8 w-8 text-primary" />
-              Calendário do Humor
-            </h1>
+            <div className="text-center">
+              <h1 className="text-3xl font-bold text-foreground flex items-center justify-center gap-2">
+                <CalendarIcon className="h-8 w-8 text-primary" />
+                Mood Calendar
+              </h1>
+              <p className="text-lg text-muted-foreground mt-2">How is your mood today?</p>
+            </div>
             <Button
               variant="ghost"
               size="sm"
