@@ -26,3 +26,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .DS_Store
+.env*.local
+
+# Edge Config generated files
+edge-config-data.json
+edge-config-entries.json
+edge-config-stats.json

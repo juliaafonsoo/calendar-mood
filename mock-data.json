@@ -5,19 +5,19 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "Cafe da manha familia. reunioes. filminho Rick",
-    "createdAt": "2025-09-02T22:00:50.892Z",
-    "updatedAt": "2025-09-02T22:00:50.892Z",
-    "id": 1
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 66
   },
   {
     "date": "2025-09-02",
-    "dose": 150,
+    "dose": 100,
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "reflexiva",
-    "createdAt": "2025-09-02T22:00:50.894Z",
-    "updatedAt": "2025-09-02T22:00:50.894Z",
-    "id": 2
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 67
   },
   {
     "date": "2025-08-31",
@@ -25,9 +25,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "BeachTenis top. churras ansiosa. noite culpa",
-    "createdAt": "2025-09-02T22:13:12.519Z",
-    "updatedAt": "2025-09-02T22:13:12.519Z",
-    "id": 4
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 68
   },
   {
     "date": "2025-08-30",
@@ -35,9 +35,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "Shaka Top. Extração dados culpa.",
-    "createdAt": "2025-09-02T22:14:45.402Z",
-    "updatedAt": "2025-09-02T22:14:45.402Z",
-    "id": 5
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 69
   },
   {
     "date": "2025-08-29",
@@ -45,9 +45,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "julIA. Hawkins/Budismo/Mindfulness.",
-    "createdAt": "2025-09-02T22:16:13.086Z",
-    "updatedAt": "2025-09-02T22:16:13.086Z",
-    "id": 6
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 70
   },
   {
     "date": "2025-08-28",
@@ -55,9 +55,9 @@
     "clonazepamDrops": 0,
     "mood": 2,
     "comment": "Aguarras. Dormi 5am",
-    "createdAt": "2025-09-02T22:17:18.017Z",
-    "updatedAt": "2025-09-02T22:17:18.017Z",
-    "id": 7
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 71
   },
   {
     "date": "2025-08-27",
@@ -65,9 +65,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "vazio. reflexiva.",
-    "createdAt": "2025-09-02T22:18:10.235Z",
-    "updatedAt": "2025-09-02T22:18:10.235Z",
-    "id": 8
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 72
   },
   {
     "date": "2025-08-26",
@@ -75,9 +75,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "Martin morreu",
-    "createdAt": "2025-09-02T22:19:19.436Z",
-    "updatedAt": "2025-09-02T22:19:19.436Z",
-    "id": 9
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 73
   },
   {
     "date": "2025-08-25",
@@ -85,9 +85,9 @@
     "clonazepamDrops": 0,
     "mood": 2,
     "comment": "Triste. dra Andrea",
-    "createdAt": "2025-09-02T22:20:06.917Z",
-    "updatedAt": "2025-09-02T22:20:06.917Z",
-    "id": 10
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 74
   },
   {
     "date": "2025-08-24",
@@ -95,9 +95,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "culpa",
-    "createdAt": "2025-09-02T22:20:52.434Z",
-    "updatedAt": "2025-09-02T22:20:52.434Z",
-    "id": 11
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 75
   },
   {
     "date": "2025-08-23",
@@ -105,9 +105,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "familia legal. Trabalho culpa.",
-    "createdAt": "2025-09-02T22:21:04.084Z",
-    "updatedAt": "2025-09-02T22:21:04.084Z",
-    "id": 12
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 76
   },
   {
     "date": "2025-08-22",
@@ -115,9 +115,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "Doce e familia: feliz. Tampao: paz",
-    "createdAt": "2025-09-02T22:21:13.933Z",
-    "updatedAt": "2025-09-02T22:21:13.933Z",
-    "id": 13
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 77
   },
   {
     "date": "2025-08-21",
@@ -125,9 +125,9 @@
     "clonazepamDrops": 6,
     "mood": 2,
     "comment": "Disforia. Vizinhos.",
-    "createdAt": "2025-09-02T22:21:40.117Z",
-    "updatedAt": "2025-09-02T22:21:40.117Z",
-    "id": 14
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 78
   },
   {
     "date": "2025-08-20",
@@ -135,9 +135,9 @@
     "clonazepamDrops": 0,
     "mood": 2,
     "comment": "Disforia. vizinhos,tina,etc.",
-    "createdAt": "2025-09-02T22:21:48.967Z",
-    "updatedAt": "2025-09-02T22:21:48.967Z",
-    "id": 15
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 79
   },
   {
     "date": "2025-08-19",
@@ -145,9 +145,9 @@
     "clonazepamDrops": 0,
     "mood": 2,
     "comment": "Atraso amanda. irritada. baixa autoestima",
-    "createdAt": "2025-09-02T22:22:04.717Z",
-    "updatedAt": "2025-09-02T22:22:04.717Z",
-    "id": 16
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 80
   },
   {
     "date": "2025-08-18",
@@ -155,9 +155,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "culpa. irritabilidade",
-    "createdAt": "2025-09-02T22:22:18.551Z",
-    "updatedAt": "2025-09-02T22:22:18.551Z",
-    "id": 17
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 81
   },
   {
     "date": "2025-08-17",
@@ -165,9 +165,9 @@
     "clonazepamDrops": 10,
     "mood": 4,
     "comment": "MC festival",
-    "createdAt": "2025-09-02T22:23:03.868Z",
-    "updatedAt": "2025-09-02T22:23:03.868Z",
-    "id": 18
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 82
   },
   {
     "date": "2025-08-16",
@@ -175,9 +175,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "Crise existencial.",
-    "createdAt": "2025-09-02T22:24:00.923Z",
-    "updatedAt": "2025-09-02T22:24:00.923Z",
-    "id": 19
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 83
   },
   {
     "date": "2025-08-15",
@@ -185,9 +185,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "Piazza. Interestelar",
-    "createdAt": "2025-09-02T22:24:41.339Z",
-    "updatedAt": "2025-09-02T22:24:41.339Z",
-    "id": 20
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 84
   },
   {
     "date": "2025-08-14",
@@ -195,9 +195,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "Euforia. Aval Amanda. dormi 3am",
-    "createdAt": "2025-09-02T22:25:09.539Z",
-    "updatedAt": "2025-09-02T22:25:09.539Z",
-    "id": 21
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 85
   },
   {
     "date": "2025-08-01",
@@ -205,9 +205,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "improdutivo com kelly. briga gio noite",
-    "createdAt": "2025-09-02T22:34:01.409Z",
-    "updatedAt": "2025-09-02T22:34:01.409Z",
-    "id": 22
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 86
   },
   {
     "date": "2025-08-02",
@@ -215,9 +215,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "acordei 6h manha. mania maxima",
-    "createdAt": "2025-09-02T22:34:28.689Z",
-    "updatedAt": "2025-09-02T22:34:28.689Z",
-    "id": 23
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 87
   },
   {
     "date": "2025-08-03",
@@ -225,9 +225,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "terminei diagrama (nunca termino nada)",
-    "createdAt": "2025-09-02T22:35:03.422Z",
-    "updatedAt": "2025-09-02T22:35:03.422Z",
-    "id": 24
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 88
   },
   {
     "date": "2025-08-04",
@@ -235,9 +235,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "boa distribuicao julIA/Emb",
-    "createdAt": "2025-09-02T22:35:25.242Z",
-    "updatedAt": "2025-09-02T22:35:25.242Z",
-    "id": 25
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 89
   },
   {
     "date": "2025-08-05",
@@ -245,9 +245,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "bom distribuicao do tempo",
-    "createdAt": "2025-09-02T22:35:46.225Z",
-    "updatedAt": "2025-09-02T22:35:46.225Z",
-    "id": 26
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 90
   },
   {
     "date": "2025-08-06",
@@ -255,9 +255,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "dia de escritorio",
-    "createdAt": "2025-09-02T22:36:08.507Z",
-    "updatedAt": "2025-09-02T22:36:08.507Z",
-    "id": 27
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 91
   },
   {
     "date": "2025-08-07",
@@ -265,9 +265,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "foco na empresa",
-    "createdAt": "2025-09-02T22:36:28.208Z",
-    "updatedAt": "2025-09-02T22:36:28.208Z",
-    "id": 28
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 92
   },
   {
     "date": "2025-08-08",
@@ -275,9 +275,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "Euforia. reuniao produtiva com amanda em casa",
-    "createdAt": "2025-09-02T22:36:47.709Z",
-    "updatedAt": "2025-09-02T22:36:47.709Z",
-    "id": 29
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 93
   },
   {
     "date": "2025-08-09",
@@ -285,9 +285,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "foco empresa",
-    "createdAt": "2025-09-02T22:36:59.859Z",
-    "updatedAt": "2025-09-02T22:36:59.859Z",
-    "id": 30
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 94
   },
   {
     "date": "2025-08-10",
@@ -295,9 +295,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "Dia dos Pais. volei e passeio (nunca animo fazer nada alem de trabalhar)",
-    "createdAt": "2025-09-02T22:37:53.510Z",
-    "updatedAt": "2025-09-02T22:37:53.510Z",
-    "id": 31
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 95
   },
   {
     "date": "2025-08-11",
@@ -305,9 +305,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "mente a mil. sem clareza mental. 0 sono",
-    "createdAt": "2025-09-02T22:38:21.326Z",
-    "updatedAt": "2025-09-02T22:38:21.326Z",
-    "id": 32
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 96
   },
   {
     "date": "2025-08-12",
@@ -315,9 +315,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "agoniada pq improdutiva",
-    "createdAt": "2025-09-02T22:38:42.210Z",
-    "updatedAt": "2025-09-02T22:38:42.210Z",
-    "id": 33
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 97
   },
   {
     "date": "2025-08-13",
@@ -325,9 +325,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "improdutiva. agoniada",
-    "createdAt": "2025-09-02T22:38:59.344Z",
-    "updatedAt": "2025-09-02T22:38:59.344Z",
-    "id": 34
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 98
   },
   {
     "date": "2025-06-17",
@@ -335,9 +335,9 @@
     "clonazepamDrops": 0,
     "mood": 2,
     "comment": "",
-    "createdAt": "2025-09-02T22:43:25.476Z",
-    "updatedAt": "2025-09-02T22:43:25.476Z",
-    "id": 35
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 99
   },
   {
     "date": "2025-06-18",
@@ -345,9 +345,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "",
-    "createdAt": "2025-09-02T22:43:31.341Z",
-    "updatedAt": "2025-09-02T22:43:31.341Z",
-    "id": 36
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 100
   },
   {
     "date": "2025-06-19",
@@ -355,9 +355,9 @@
     "clonazepamDrops": 0,
     "mood": 2,
     "comment": "",
-    "createdAt": "2025-09-02T22:44:07.291Z",
-    "updatedAt": "2025-09-02T22:44:07.291Z",
-    "id": 37
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 101
   },
   {
     "date": "2025-06-20",
@@ -365,9 +365,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "",
-    "createdAt": "2025-09-02T22:44:13.042Z",
-    "updatedAt": "2025-09-02T22:44:13.042Z",
-    "id": 38
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 102
   },
   {
     "date": "2025-06-21",
@@ -375,9 +375,9 @@
     "clonazepamDrops": 0,
     "mood": 2,
     "comment": "achei conforto no SOL",
-    "createdAt": "2025-09-02T22:44:23.342Z",
-    "updatedAt": "2025-09-02T22:44:23.342Z",
-    "id": 39
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 103
   },
   {
     "date": "2025-06-22",
@@ -385,9 +385,9 @@
     "clonazepamDrops": 0,
     "mood": 1,
     "comment": "",
-    "createdAt": "2025-09-02T22:44:48.026Z",
-    "updatedAt": "2025-09-02T22:44:48.026Z",
-    "id": 40
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 104
   },
   {
     "date": "2025-06-23",
@@ -395,9 +395,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "Dra Dulce",
-    "createdAt": "2025-09-02T22:45:07.428Z",
-    "updatedAt": "2025-09-02T22:45:07.428Z",
-    "id": 41
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 105
   },
   {
     "date": "2025-06-24",
@@ -405,9 +405,9 @@
     "clonazepamDrops": 0,
     "mood": 5,
     "comment": "",
-    "createdAt": "2025-09-02T22:45:16.691Z",
-    "updatedAt": "2025-09-02T22:45:16.691Z",
-    "id": 42
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 106
   },
   {
     "date": "2025-06-25",
@@ -415,9 +415,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "",
-    "createdAt": "2025-09-02T22:45:27.975Z",
-    "updatedAt": "2025-09-02T22:45:27.975Z",
-    "id": 43
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 107
   },
   {
     "date": "2025-06-26",
@@ -425,9 +425,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "",
-    "createdAt": "2025-09-02T22:45:41.625Z",
-    "updatedAt": "2025-09-02T22:45:41.625Z",
-    "id": 44
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 108
   },
   {
     "date": "2025-06-27",
@@ -435,9 +435,9 @@
     "clonazepamDrops": 0,
     "mood": 5,
     "comment": "FERIAS",
-    "createdAt": "2025-09-02T22:45:50.899Z",
-    "updatedAt": "2025-09-02T22:45:50.899Z",
-    "id": 45
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 109
   },
   {
     "date": "2025-06-28",
@@ -445,9 +445,9 @@
     "clonazepamDrops": 0,
     "mood": 5,
     "comment": "CNPJ SAIU!!",
-    "createdAt": "2025-09-02T22:46:02.946Z",
-    "updatedAt": "2025-09-02T22:46:02.946Z",
-    "id": 46
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 110
   },
   {
     "date": "2025-06-29",
@@ -455,9 +455,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "",
-    "createdAt": "2025-09-02T22:46:08.927Z",
-    "updatedAt": "2025-09-02T22:46:08.927Z",
-    "id": 47
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 111
   },
   {
     "date": "2025-06-30",
@@ -465,9 +465,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "",
-    "createdAt": "2025-09-02T22:46:14.325Z",
-    "updatedAt": "2025-09-02T22:46:14.325Z",
-    "id": 48
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 112
   },
   {
     "date": "2025-07-01",
@@ -475,9 +475,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "",
-    "createdAt": "2025-09-02T22:46:22.943Z",
-    "updatedAt": "2025-09-02T22:46:22.943Z",
-    "id": 49
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 113
   },
   {
     "date": "2025-07-02",
@@ -485,9 +485,9 @@
     "clonazepamDrops": 0,
     "mood": 2,
     "comment": "",
-    "createdAt": "2025-09-02T22:46:27.510Z",
-    "updatedAt": "2025-09-02T22:46:27.510Z",
-    "id": 50
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 114
   },
   {
     "date": "2025-07-03",
@@ -495,9 +495,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "",
-    "createdAt": "2025-09-02T22:46:54.959Z",
-    "updatedAt": "2025-09-02T22:46:54.959Z",
-    "id": 51
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 115
   },
   {
     "date": "2025-07-04",
@@ -505,9 +505,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "",
-    "createdAt": "2025-09-02T22:47:06.692Z",
-    "updatedAt": "2025-09-02T22:47:06.692Z",
-    "id": 52
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 116
   },
   {
     "date": "2025-07-05",
@@ -515,9 +515,9 @@
     "clonazepamDrops": 0,
     "mood": 5,
     "comment": "CHILE!!",
-    "createdAt": "2025-09-02T22:47:16.745Z",
-    "updatedAt": "2025-09-02T22:47:16.745Z",
-    "id": 53
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 117
   },
   {
     "date": "2025-07-06",
@@ -525,9 +525,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "",
-    "createdAt": "2025-09-02T22:47:29.836Z",
-    "updatedAt": "2025-09-02T22:47:29.836Z",
-    "id": 54
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 118
   },
   {
     "date": "2025-07-07",
@@ -535,9 +535,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "",
-    "createdAt": "2025-09-02T22:47:33.838Z",
-    "updatedAt": "2025-09-02T22:47:33.838Z",
-    "id": 55
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 119
   },
   {
     "date": "2025-07-08",
@@ -545,9 +545,9 @@
     "clonazepamDrops": 0,
     "mood": 5,
     "comment": "SNOWBOARD!!",
-    "createdAt": "2025-09-02T22:47:52.039Z",
-    "updatedAt": "2025-09-02T22:47:52.039Z",
-    "id": 56
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 120
   },
   {
     "date": "2025-07-09",
@@ -555,9 +555,9 @@
     "clonazepamDrops": 12,
     "mood": 2,
     "comment": "Crise de panico",
-    "createdAt": "2025-09-02T22:48:03.205Z",
-    "updatedAt": "2025-09-02T22:48:03.205Z",
-    "id": 57
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 121
   },
   {
     "date": "2025-07-10",
@@ -565,9 +565,9 @@
     "clonazepamDrops": 0,
     "mood": 5,
     "comment": "",
-    "createdAt": "2025-09-02T22:48:40.652Z",
-    "updatedAt": "2025-09-02T22:48:40.652Z",
-    "id": 58
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 122
   },
   {
     "date": "2025-07-11",
@@ -575,9 +575,9 @@
     "clonazepamDrops": 0,
     "mood": 5,
     "comment": "Snownoturno!!!",
-    "createdAt": "2025-09-02T22:49:07.637Z",
-    "updatedAt": "2025-09-02T22:49:07.637Z",
-    "id": 59
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 123
   },
   {
     "date": "2025-07-12",
@@ -585,9 +585,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "Tochas",
-    "createdAt": "2025-09-02T22:49:17.070Z",
-    "updatedAt": "2025-09-02T22:49:17.070Z",
-    "id": 60
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 124
   },
   {
     "date": "2025-07-13",
@@ -595,9 +595,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "",
-    "createdAt": "2025-09-02T22:49:23.453Z",
-    "updatedAt": "2025-09-02T22:49:23.453Z",
-    "id": 61
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 125
   },
   {
     "date": "2025-07-14",
@@ -605,9 +605,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "",
-    "createdAt": "2025-09-02T22:49:30.218Z",
-    "updatedAt": "2025-09-02T22:49:30.218Z",
-    "id": 62
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 126
   },
   {
     "date": "2025-07-15",
@@ -615,9 +615,9 @@
     "clonazepamDrops": 0,
     "mood": 4,
     "comment": "Esperanca home office. Início de uma pressão. confusa",
-    "createdAt": "2025-09-02T22:50:06.086Z",
-    "updatedAt": "2025-09-02T22:50:06.086Z",
-    "id": 63
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 127
   },
   {
     "date": "2025-07-25",
@@ -625,9 +625,9 @@
     "clonazepamDrops": 0,
     "mood": 3,
     "comment": "",
-    "createdAt": "2025-09-02T22:51:32.447Z",
-    "updatedAt": "2025-09-02T22:51:32.447Z",
-    "id": 64
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 128
   },
   {
     "date": "2025-07-26",
@@ -635,8 +635,58 @@
     "clonazepamDrops": 0,
     "mood": 1,
     "comment": "Faxina: Briga com rick",
-    "createdAt": "2025-09-02T22:51:53.068Z",
-    "updatedAt": "2025-09-02T22:51:53.068Z",
-    "id": 65
+    "createdAt": "2025-09-02T23:16:27.228Z",
+    "updatedAt": "2025-09-02T23:16:27.228Z",
+    "id": 129
+  },
+  {
+    "date": "2025-09-05",
+    "dose": 150,
+    "clonazepamDrops": 0,
+    "mood": 4,
+    "comment": "Euforia. Vertex AI. Dormi 3h",
+    "createdAt": "2025-09-06T14:42:22.429Z",
+    "updatedAt": "2025-09-06T14:42:22.429Z",
+    "id": 130
+  },
+  {
+    "date": "2025-09-04",
+    "dose": 100,
+    "clonazepamDrops": 0,
+    "mood": 5,
+    "comment": "Cafeteria com amigas. Euforia. Ideias. aceleração mental",
+    "createdAt": "2025-09-06T14:43:11.909Z",
+    "updatedAt": "2025-09-06T14:43:11.909Z",
+    "id": 131
+  },
+  {
+    "date": "2025-09-03",
+    "dose": 100,
+    "clonazepamDrops": 0,
+    "mood": 4,
+    "comment": "humor levemente melhor",
+    "createdAt": "2025-09-06T14:46:45.754Z",
+    "updatedAt": "2025-09-06T14:46:45.754Z",
+    "id": 132
+  },
+  {
+    "date": "2025-09-06",
+    "dose": 0,
+    "clonazepamDrops": 0,
+    "mood": 4,
+    "comment": "Vertex AI. Rick irritabilidade",
+    "createdAt": "2025-09-06T14:47:43.006Z",
+    "updatedAt": "2025-09-06T14:47:43.006Z",
+    "id": 133
+  },
+  {
+    "date": "2025-07-16",
+    "dose": 150,
+    "clonazepamDrops": 0,
+    "mood": 3,
+    "comment": "Confusa. Musica Olhos Azuis",
+    "createdAt": "2025-09-06T14:48:40.407Z",
+    "updatedAt": "2025-09-06T14:48:40.407Z",
+    "id": 134
   }
 ]
